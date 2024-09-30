@@ -23,7 +23,7 @@
         color: var(--white);
 
         background: var(--bg);
-        background-image: url(/img/top-waves.svg), url(/img/bottom-waves.svg);
+        background-image: url(./img/top-waves.svg), url(./img/bottom-waves.svg);
         background-repeat: no-repeat, no-repeat;
         background-position: top center, bottom center;
 
